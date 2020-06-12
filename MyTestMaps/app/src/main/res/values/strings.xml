@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTestMaps</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="map_box_access_token">pk.eyJ1IjoiaGVsZmFuemFuYW5kYSIsImEiOiJja2FkaGNrM2wxcTN1MnZxd29hemZqZW4xIn0.W05mUULXjBG8r0nOeZDgRQ</string>
+</resources>
